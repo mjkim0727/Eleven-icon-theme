@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="13.328125"
-     inkscape:cx="32"
+     inkscape:zoom="12.625"
+     inkscape:cx="29.861386"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,7 +55,7 @@
        x2="60"
        y2="32"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.871582e-8,-4.0000002)" />
+       gradientTransform="translate(0,-4.0000002)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1116">
@@ -72,12 +72,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient2301"
        id="linearGradient3240"
-       x1="17.902164"
-       y1="29.999403"
-       x2="60"
-       y2="51"
+       x1="59"
+       y1="50"
+       x2="5"
+       y2="13.999999"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-5.871582e-8,-4.0000002)" />
+       gradientTransform="translate(0,-4.0000002)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3846">
@@ -118,8 +118,8 @@
   <path
      id="rect1418"
      style="fill:#b8c2cc;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
-     d="m 6,8 h 52 l 1.999999,1 V 24.999999 H 4.0000001 L 3.9999999,9 Z"
-     sodipodi:nodetypes="ccccccc" />
+     d="M 8,8 H 56.000002 C 58.384124,8 60,9.5316395 60,11.999999 v 13 H 4 v -13 C 4,9.378891 5.447902,8 8,8 Z"
+     sodipodi:nodetypes="sssccss" />
   <rect
      style="fill:#44484c;fill-opacity:1;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
      id="rect1839"
@@ -128,21 +128,19 @@
      x="18.000002"
      y="54.000004" />
   <rect
-     style="fill:url(#linearGradient1908);fill-opacity:1;stroke-linecap:round"
+     style="fill:url(#linearGradient1908);fill-opacity:1;stroke-width:0.999999;stroke-linecap:round"
      id="rect1537"
      width="56"
      height="38"
      x="4"
-     y="8.999999" />
+     y="8.999999"
+     ry="3" />
   <rect
-     style="fill:url(#linearGradient3240);fill-opacity:1.0;stroke-linecap:round"
+     style="fill:url(#linearGradient3240);fill-opacity:1;stroke-width:1;stroke-linecap:round"
      id="rect1910"
      width="54"
      height="36"
      x="5"
-     y="9.999999" />
-  <path
-     d="M 4.9999999,10 H 39.999999 l -25,36 H 4.9999999 Z"
-     style="color:#000000;opacity:0.15;fill:#ffffff;stroke-width:0.78558"
-     id="path3898" />
+     y="9.999999"
+     ry="2" />
 </svg>

@@ -25,10 +25,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="12.921875"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:cx="29.871826"
+     inkscape:cy="31.961306"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,6 +47,42 @@
      d="M 12,17 V 55 H 48.000001 V 17 Z M 49,6 V 55.999999 H 16.000001 v 3 H 52 V 6.5 Z"
      sodipodi:nodetypes="cccccccccccc" />
   <path
+     id="rect341"
+     style="fill:#185c37;fill-opacity:1;stroke-width:2.64574;stroke-linecap:round"
+     d="m 32,39.000001 v 3 h 4 c 0.553999,0 1,-0.446001 1,-1 v -1 c 0,-0.553999 -0.446001,-1 -1,-1 z" />
+  <path
+     id="rect343"
+     style="fill:#107c41;fill-opacity:1;stroke-width:2.64574;stroke-linecap:round"
+     d="m 32,33.000001 v 3 h 4 c 0.553999,0 1,-0.446001 1,-1 v -1 c 0,-0.553999 -0.446001,-1 -1,-1 z" />
+  <path
+     id="rect345"
+     style="fill:#21a366;fill-opacity:1;stroke-width:2.64574;stroke-linecap:round"
+     d="m 32,27.000001 v 3 h 4 c 0.553999,0 1,-0.446001 1,-1 v -1 c 0,-0.553999 -0.446001,-1 -1,-1 z" />
+  <rect
+     style="fill:#6dc898;fill-opacity:1;stroke-width:2.04939"
+     id="rect518"
+     width="7"
+     height="3"
+     x="39"
+     y="27"
+     ry="1" />
+  <rect
+     style="fill:#4fae7f;fill-opacity:1;stroke-width:2.04939"
+     id="rect520"
+     width="7"
+     height="3"
+     x="39"
+     y="33"
+     ry="1" />
+  <rect
+     style="fill:#134a2c;fill-opacity:1;stroke-width:2.04939"
+     id="rect522"
+     width="7"
+     height="3"
+     x="39"
+     y="39"
+     ry="1" />
+  <path
      id="rect6964"
      style="fill:#41be68;fill-opacity:1;stroke-width:2.78796;stroke-linecap:round;stroke-linejoin:round"
      d="M 11.000002,4.000001 47.999998,4 V 18 H 11.000002 Z"
@@ -56,11 +92,6 @@
      style="fill:#0c7c42;fill-opacity:1;stroke-width:2.82019;stroke-linecap:round;stroke-linejoin:round"
      d="m 47.999998,4 v 2 l 5.000001,2 V 6 Z M 11,17 v 1 h 36.999998 v -1 z"
      sodipodi:nodetypes="cccccccccc" />
-  <path
-     id="rect1305"
-     style="fill:#c0c5cb;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="m 32,24 c -0.554003,0 -1,0.446 -1,1 0,0.554 0.445997,1 1,1 h 4.999999 C 37.553998,26 38,25.554 38,25 38,24.446 37.553998,24 36.999999,24 Z m 8.999997,0 c -0.554003,0 -0.999999,0.446 -0.999999,1 0,0.554 0.445996,1 0.999999,1 h 5.000001 c 0.554,0 1.000003,-0.446 1.000003,-1 0,-0.554 -0.446003,-1 -1.000003,-1 z M 32,29 c -0.554003,0 -1,0.446 -1,1 0,0.554 0.445997,1 1,1 h 4.999999 C 37.553998,31 38,30.554 38,30 38,29.446 37.553998,29 36.999999,29 Z m 8.999997,0 c -0.554003,0 -0.999999,0.446 -0.999999,1 0,0.554 0.445996,1 0.999999,1 h 5.000001 c 0.554,0 1.000003,-0.446 1.000003,-1 0,-0.554 -0.446003,-1 -1.000003,-1 z M 32,34 c -0.554003,0 -1,0.446 -1,1 0,0.554 0.445997,1 1,1 h 4.999999 C 37.553998,36 38,35.554 38,35 38,34.446 37.553998,34 36.999999,34 Z m 8.999997,0 c -0.554003,0 -0.999999,0.446 -0.999999,1 0,0.554 0.445996,1 0.999999,1 h 5.000001 c 0.554,0 1.000003,-0.446 1.000003,-1 0,-0.554 -0.446003,-1 -1.000003,-1 z M 32,39 c -0.554003,0 -1,0.446 -1,0.999999 0,0.554 0.445997,1.000003 1,1.000003 h 4.999999 C 37.553998,41.000002 38,40.553999 38,39.999999 38,39.446 37.553998,39 36.999999,39 Z m 8.999997,0 c -0.554003,0 -0.999999,0.446 -0.999999,0.999999 0,0.554 0.445996,1.000003 0.999999,1.000003 h 5.000001 c 0.554,0 1.000003,-0.446003 1.000003,-1.000003 C 47.000001,39.446 46.553998,39 45.999998,39 Z M 32,44.000002 c -0.554003,0 -1,0.445999 -1,0.999998 0,0.554 0.445997,0.999999 1,0.999999 h 4.999999 C 37.553998,45.999999 38,45.554004 38,45 38,44.445997 37.553998,44.000002 36.999999,44.000002 Z m 8.999997,0 c -0.554003,0 -0.999999,0.445995 -0.999999,0.999998 0,0.554 0.445996,0.999999 0.999999,0.999999 h 5.000001 c 0.554,0 1.000003,-0.445999 1.000003,-0.999999 0,-0.554003 -0.446003,-0.999998 -1.000003,-0.999998 z"
-     sodipodi:nodetypes="ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss" />
   <path
      id="rect1973"
      style="fill:#0c7c42;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"

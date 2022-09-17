@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="17.770833"
-     inkscape:cx="24"
+     inkscape:zoom="16.833333"
+     inkscape:cx="23.970297"
      inkscape:cy="24"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -74,10 +74,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient2301"
        id="linearGradient3240"
-       x1="17.902164"
-       y1="29.999403"
-       x2="60"
-       y2="51"
+       x1="59"
+       y1="50"
+       x2="5.0000005"
+       y2="14"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.74074074,0,0,0.77777777,0.29629596,-3.8888891)" />
     <linearGradient
@@ -124,26 +124,23 @@
      y="41.999989" />
   <path
      id="rect1418"
-     style="fill:#b8c2cc;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
-     d="M 5.0000001,4.9999997 H 43 l 1.999999,1 V 21.999999 H 3.0000001 V 5.9999997 Z"
-     sodipodi:nodetypes="ccccccc" />
+     style="fill:#b8c2cc;stroke-width:2.50001;stroke-linecap:round;stroke-linejoin:round"
+     d="m 6,5 h 36 c 2,0 2.882606,1.915344 2.882606,1.915344 L 44.999996,7.5 H 3 L 3.456812,6.4202529 C 3.456812,6.4202529 4.723951,5 6,5 Z"
+     sodipodi:nodetypes="ssccccs" />
   <rect
      style="fill:url(#linearGradient1908);fill-opacity:1;stroke-width:0.769483;stroke-linecap:round"
      id="rect1537"
      width="42"
      height="30"
      x="3"
-     y="5.9999995" />
+     y="5.9999995"
+     ry="2" />
   <rect
-     style="fill:url(#linearGradient3240);fill-opacity:1.0;stroke-width:0.759033;stroke-linecap:round"
+     style="fill:url(#linearGradient3240);fill-opacity:1;stroke-width:0.759033;stroke-linecap:round"
      id="rect1910"
      width="40"
      height="28"
      x="4"
-     y="6.9999995" />
-  <path
-     d="M 4.0000001,6.9999997 H 29 L 12,35 H 4.0000001 Z"
-     style="color:#000000;opacity:0.15;fill:#ffffff;stroke-width:0.596281"
-     id="path3898"
-     sodipodi:nodetypes="ccccc" />
+     y="6.9999995"
+     ry="1" />
 </svg>

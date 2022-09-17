@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.921875"
+     inkscape:zoom="12.625"
      inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,14 +47,17 @@
      d="M 13,5 V 59 H 51 V 17 H 40 c -0.554003,0 -1,-0.446 -1,-1 V 5 Z m 27,0 v 11 h 11 z"
      sodipodi:nodetypes="ccccsscccccc" />
   <path
-     id="rect8443"
-     style="fill:#c0c5cb;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="m 36,22.048829 c -5.052808,0.502222 -9,4.766191 -9,9.951172 0,5.522847 4.477152,10.000002 10,10.000002 5.184982,0 9.44895,-3.947195 9.951174,-9.000002 H 37.999999 36 v -2 z M 18,45.000003 c -0.554,0 -1,0.446 -1,0.999999 0,0.553999 0.446,1.000003 1,1.000003 h 28.000004 c 0.553999,0 0.999999,-0.446004 0.999999,-1.000003 0,-0.553999 -0.446,-0.999999 -0.999999,-0.999999 z m 0,5.000001 c -0.554,0 -1,0.446 -1,0.999999 0,0.554 0.446,0.999999 1,0.999999 h 28.000004 c 0.553999,0 0.999999,-0.445999 0.999999,-0.999999 0,-0.553999 -0.446,-0.999999 -0.999999,-0.999999 z"
-     sodipodi:nodetypes="csscccccssssssssssssss" />
+     id="path344"
+     style="fill:#f1ab69;fill-opacity:1;stroke-width:2.99999;stroke-linecap:round"
+     d="m 40,23 v 9 h 9 a 8.9999984,8.9999984 0 0 0 -9,-9 z" />
   <path
-     id="path928"
-     style="fill:#e8ab72;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="m 37.999999,22.050782 v 8.949219 h 8.949221 a 9.9999997,9.9999997 0 0 0 -8.949221,-8.949219 z" />
+     id="path345"
+     style="fill:#e77d57;fill-opacity:1;stroke-width:3.59971"
+     d="M 38 25 A 9 9 0 0 0 32 27.304688 L 32 40.695312 A 9 9 0 0 0 38 43 A 9 9 0 0 0 47 34 L 38 34 L 38 25 z " />
+  <path
+     id="path649"
+     style="fill:#ed6c47;fill-opacity:1;stroke-width:4.5"
+     d="M 32 34 L 32 40.681641 A 9 9 0 0 0 38 43 A 9 9 0 0 0 47 34 L 32 34 z " />
   <path
      id="rect1973"
      style="fill:#cb3a22;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"

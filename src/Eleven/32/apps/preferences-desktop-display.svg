@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="26.65625"
+     inkscape:zoom="25.25"
      inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -73,10 +73,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient2301"
        id="linearGradient3240"
-       x1="17.902164"
-       y1="29.999403"
-       x2="60"
-       y2="51"
+       x1="59"
+       y1="50"
+       x2="5"
+       y2="13.999999"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.48148148,0,0,0.4722222,0.59259259,-0.61111026)" />
     <linearGradient
@@ -104,6 +104,14 @@
          id="stop2299" />
     </linearGradient>
   </defs>
+  <rect
+     style="fill:#b8c2cc;fill-opacity:1;stroke-width:1.03775"
+     id="rect1256"
+     width="28"
+     height="13"
+     x="2.0000002"
+     y="4"
+     ry="2" />
   <path
      id="rect958"
      style="fill:#333333;stroke-width:2.50001;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
@@ -123,28 +131,20 @@
      height="1"
      x="8.999999"
      y="27.000006" />
-  <path
-     id="rect1418"
-     style="fill:#b8c2cc;stroke-width:2.50001;stroke-linecap:round;stroke-linejoin:round"
-     d="M 3.0000001,4 H 29 l 1,1 v 7.5 H 2.0000001 L 2,5 Z"
-     sodipodi:nodetypes="ccccccc" />
   <rect
      style="fill:url(#linearGradient1908);fill-opacity:1;stroke-width:0.5;stroke-linecap:round"
      id="rect1537"
      width="28"
      height="19"
      x="2"
-     y="5" />
+     y="5"
+     ry="2" />
   <rect
-     style="fill:url(#linearGradient3240);fill-opacity:1.0;stroke-width:0.476829;stroke-linecap:round"
+     style="fill:url(#linearGradient3240);fill-opacity:1;stroke-width:0.476829;stroke-linecap:round"
      id="rect1910"
      width="26"
      height="17"
      x="3"
-     y="6" />
-  <path
-     d="M 3,6 H 18 L 8.0000001,22.999999 H 3 Z"
-     style="color:#000000;opacity:0.15;fill:#ffffff;stroke-width:0.374587"
-     id="path3898"
-     sodipodi:nodetypes="ccccc" />
+     y="6"
+     ry="1" />
 </svg>

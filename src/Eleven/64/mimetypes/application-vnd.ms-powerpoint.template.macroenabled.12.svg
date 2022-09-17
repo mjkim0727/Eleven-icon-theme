@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.921875"
+     inkscape:zoom="12.625"
      inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,6 +47,18 @@
      d="M 12,17 V 55 H 48.000001 V 17 Z M 49,6 V 55.999999 H 16.000001 v 3 H 52 V 6.5 Z"
      sodipodi:nodetypes="cccccccccccc" />
   <path
+     id="path345"
+     style="fill:#e77d57;fill-opacity:1;stroke-width:3.19974"
+     d="M 36 27 A 8 8 0 0 0 32 28.091797 L 32 41.908203 A 8 8 0 0 0 36 43 A 8 8 0 0 0 44 35 L 36 35 L 36 27 z " />
+  <path
+     id="path649"
+     style="fill:#ed6c47;fill-opacity:1;stroke-width:4"
+     d="M 32 35 L 32 41.927734 A 8 8 0 0 0 36 43 A 8 8 0 0 0 44 35 L 32 35 z " />
+  <path
+     id="path344"
+     style="fill:#f1ab69;fill-opacity:1;stroke-width:2.66666;stroke-linecap:round"
+     d="m 38,25 v 8 h 8 a 7.9999986,7.9999986 0 0 0 -8,-8 z" />
+  <path
      id="rect6964"
      style="fill:#efa276;fill-opacity:1;stroke-width:2.78796;stroke-linecap:round;stroke-linejoin:round"
      d="M 11.000002,4.000001 47.999998,4 V 18 H 11.000002 Z"
@@ -56,15 +68,6 @@
      style="fill:#dc772e;fill-opacity:1;stroke-width:2.82019;stroke-linecap:round;stroke-linejoin:round"
      d="m 47.999998,4 v 2 l 5.000001,2 V 6 Z M 11,17 v 1 h 36.999998 v -1 z"
      sodipodi:nodetypes="cccccccccc" />
-  <path
-     id="rect8443"
-     style="fill:#c0c5cb;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="m 35.000001,25.048828 c -5.052808,0.502222 -9,4.766191 -9,9.951172 0,5.522848 4.477152,10.000004 10,10.000004 5.18498,0 9.448949,-3.947195 9.951172,-9.000003 H 37 35.000001 V 34 Z"
-     sodipodi:nodetypes="cssccccc" />
-  <path
-     id="path928"
-     style="fill:#e8ab72;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="M 37,25.050781 V 34 h 8.949219 A 9.9999997,9.9999997 0 0 0 37,25.050781 Z" />
   <path
      id="rect1973"
      style="fill:#cb3a22;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
