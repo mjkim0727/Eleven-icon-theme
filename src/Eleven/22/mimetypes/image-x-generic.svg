@@ -25,15 +25,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="38.772727"
-     inkscape:cx="10.987104"
+     inkscape:zoom="36.818182"
+     inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     showguides="false" />
   <defs
      id="defs2">
     <linearGradient
@@ -45,7 +46,7 @@
        x2="4.7624998"
        y2="4.2333331"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.3622047,0,0,2.3622047,4.750001,6.7499998)" />
+       gradientTransform="matrix(2.3622047,0,0,2.3622047,4.750001,4.7499998)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient11972">
@@ -67,7 +68,7 @@
        x2="9.0169592"
        y2="17.659847"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4593133,0,0,0.4593133,7.050358,9.8577008)" />
+       gradientTransform="matrix(0.4593133,0,0,0.4593133,7.050358,7.8577008)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1757">
@@ -81,38 +82,38 @@
          id="stop1755" />
     </linearGradient>
   </defs>
-  <path
-     id="rect234"
-     style="fill:#7d7d7b"
-     d="M 3,0 H 15.5 L 19,3.5 V 22 H 3 Z"
-     sodipodi:nodetypes="cccccc" />
-  <path
-     id="rect1746"
-     style="fill:#fafafa"
-     d="m 4,1 h 10 v 4 h 4 V 21 H 4 Z"
-     sodipodi:nodetypes="ccccccc" />
-  <path
-     id="rect1800"
-     style="fill:#fafafa;stroke-width:0.75"
-     d="m 15,1 3,3.0000008 h -3 z"
-     sodipodi:nodetypes="cccc" />
+  <rect
+     style="fill:#7d7d7b;fill-opacity:1"
+     id="rect906"
+     width="22"
+     height="16"
+     x="-2.9802322e-08"
+     y="3"
+     ry="1" />
+  <rect
+     style="fill:#fafafa;fill-opacity:1;stroke-width:1.11803"
+     id="rect1167"
+     width="20"
+     height="14"
+     x="1"
+     y="4" />
   <rect
      style="fill:url(#linearGradient1055);fill-opacity:1;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round"
      id="rect967"
      width="10"
      height="10"
      x="6"
-     y="8"
+     y="6"
      ry="1" />
   <path
      id="rect1377"
      style="fill:url(#linearGradient1759);fill-opacity:1;stroke-width:0.249382;stroke-linecap:round;stroke-linejoin:round"
-     d="m 10.999857,13.625026 c -0.0766,0.0015 -0.12195,0.0512 -0.21523,0.15355 L 6.6250012,17.999998 H 15.375 l -4.159925,-4.221425 c -0.0933,-0.10232 -0.14316,-0.15494 -0.215218,-0.153547 z"
+     d="m 10.999857,11.625026 c -0.0766,0.0015 -0.12195,0.0512 -0.21523,0.15355 L 6.6250012,15.999998 H 15.375 l -4.159925,-4.221425 c -0.0933,-0.10232 -0.14316,-0.15494 -0.215218,-0.153547 z"
      sodipodi:nodetypes="sccccs" />
   <circle
      style="fill:#feffff;fill-opacity:1;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round"
      id="path1863"
      cx="13"
-     cy="11"
+     cy="9"
      r="1" />
 </svg>
