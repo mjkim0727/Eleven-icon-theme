@@ -26,10 +26,10 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="36.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:cx="11.040842"
+     inkscape:cy="11.027228"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -37,28 +37,6 @@
      showguides="false" />
   <defs
      id="defs2109">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6804"
-       id="linearGradient6808"
-       x1="2.3812499"
-       y1="8.4666672"
-       x2="6.6145835"
-       y2="12.700001"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.3622046,0,0,2.3622046,0.37499988,-14)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6804">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop6800" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop6802" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient162116"
@@ -206,10 +184,6 @@
          id="stop16448" />
     </linearGradient>
   </defs>
-  <path
-     id="path6272"
-     style="opacity:0.4;fill:url(#linearGradient6808);fill-opacity:1;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round"
-     d="M 11,6.0000001 A 5,5 0 0 0 6,11 a 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-4.9999999 z m 0,3.7499997 A 1.25,1.25 0 0 1 12.25,11 1.25,1.25 0 0 1 11,12.25 1.25,1.25 0 0 1 9.7500004,11 1.25,1.25 0 0 1 11,9.7499998 Z" />
   <path
      id="path151229"
      style="fill:url(#linearGradient162118);fill-opacity:1;stroke-width:0.828544;stroke-linecap:round;stroke-linejoin:round"

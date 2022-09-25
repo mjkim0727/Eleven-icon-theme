@@ -8,7 +8,7 @@
    version="1.1"
    id="svg2112"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
-   sodipodi:docname="media-optical-audio.svg"
+   sodipodi:docname="media-optical-video.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,16 +25,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="33.75"
-     inkscape:cx="12.014815"
-     inkscape:cy="12.02963"
+     inkscape:zoom="33.416667"
+     inkscape:cx="11.985037"
+     inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2112"
-     showguides="true" />
+     showguides="false" />
   <defs
      id="defs2109">
     <linearGradient
@@ -185,25 +185,47 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1304"
-       id="linearGradient888"
-       x1="27"
-       y1="19.341797"
-       x2="23"
-       y2="17"
+       xlink:href="#linearGradient27684"
+       id="linearGradient1679"
+       x1="36"
+       y1="28"
+       x2="62"
+       y2="60"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-4.0000004,-15)" />
+       gradientTransform="matrix(0.42307691,0,0,0.40624998,-3.230768,-10.374999)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1304">
+       id="linearGradient27684">
       <stop
-         style="stop-color:#272d34;stop-opacity:1;"
+         style="stop-color:#4a4a4a;stop-opacity:1;"
          offset="0"
-         id="stop1300" />
+         id="stop27680" />
       <stop
-         style="stop-color:#5c6c7c;stop-opacity:1;"
+         style="stop-color:#232323;stop-opacity:0.74901962"
          offset="1"
-         id="stop1302" />
+         id="stop27682" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12418"
+       id="linearGradient2216"
+       x1="42"
+       y1="4.9999995"
+       x2="51.999996"
+       y2="27"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5,0,0,0.5,-5.9999979,-0.49999993)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12418">
+      <stop
+         style="stop-color:#52e4ff;stop-opacity:1;"
+         offset="0"
+         id="stop12414" />
+      <stop
+         style="stop-color:#d29eff;stop-opacity:1"
+         offset="1"
+         id="stop12416" />
     </linearGradient>
   </defs>
   <path
@@ -226,9 +248,22 @@
      id="path151229-1"
      style="opacity:0.5;fill:url(#linearGradient16452);fill-opacity:1;stroke-width:0.828544;stroke-linecap:round;stroke-linejoin:round"
      d="m 14.982422,2.4550781 -1.791016,5.7246094 c 1.178957,0.3672993 2.123487,1.2667457 2.554688,2.4160155 L 21.363281,8.4882812 A 10,10 0 0 0 14.982422,2.4550781 Z" />
+  <rect
+     style="fill:url(#linearGradient1679);fill-opacity:1;stroke-width:0.414578"
+     id="rect1117"
+     width="11"
+     height="13"
+     x="12"
+     y="1"
+     ry="1" />
   <path
-     id="path1056"
-     style="fill:url(#linearGradient888);fill-opacity:1;stroke-width:3.74998;stroke-linecap:round;stroke-linejoin:round"
-     d="M 20,1 C 19.446003,1 19,1.4460026 19,2 V 7.501953 C 18.567504,7.1767005 18.041148,7.0005633 17.5,7 16.119289,7 15.000001,8.1192875 15,9.499999 c 0,1.380712 1.119288,2.5 2.5,2.5 1.380712,0 2.5,-1.119288 2.5,-2.5 V 4 l 2.060547,1 C 22.581135,5.189479 23,4.895795 23,4.341797 v -1 C 23,2.787799 22.581135,2.189479 22.060547,2 Z"
-     sodipodi:nodetypes="csccsssccsscc" />
+     id="rect2063"
+     style="fill:url(#linearGradient2216);fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+     d="m 16.000001,2.0000001 c -0.553999,0 -1,0.446 -1,1 v 3 c 0,0.554 0.446001,1 1,1 h 3 c 0.554,0 1,-0.446 1,-1 v -3 c 0,-0.554 -0.446,-1 -1,-1 z m 0,6 c -0.553999,0 -1,0.446 -1,1 V 12 c 0,0.554 0.446001,1 1,1 h 3 c 0.554,0 1,-0.446 1,-1 V 9.0000001 c 0,-0.554 -0.446,-1 -1,-1 z"
+     sodipodi:nodetypes="ssssssssssssssssss" />
+  <path
+     id="rect2763"
+     style="fill:#ffffff"
+     d="m 13,2.0000001 v 2 h 1 v -2 z m 8,0 v 2 h 1 v -2 z m -8,3 v 2 h 1 v -2 z m 8,0 v 2 h 1 v -2 z m -8,3 v 1.9999998 h 1 V 8.0000001 Z m 8,0 v 1.9999998 h 1 V 8.0000001 Z M 13,11 v 2 h 1 v -2 z m 8,0 v 2 h 1 v -2 z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
 </svg>
