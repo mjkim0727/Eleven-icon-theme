@@ -28,14 +28,14 @@
      height="64px"
      inkscape:lockguides="false"
      inkscape:zoom="33.541667"
-     inkscape:cx="12"
-     inkscape:cy="12"
+     inkscape:cx="11.418633"
+     inkscape:cy="12.029814"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg5"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1" />
   <defs
@@ -71,22 +71,17 @@
        x2="10.950723"
        y2="20.033438"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1.0000002,0.99999975)" />
+       gradientTransform="translate(2.0000002,0.99999975)" />
   </defs>
-  <g
-     inkscape:label="레이어 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <circle
-       style="fill:url(#linearGradient2320);fill-opacity:1;stroke-width:1.34768;stroke-linecap:round;stroke-linejoin:round"
-       id="path846"
-       cx="12"
-       cy="7"
-       r="4" />
-    <path
-       id="rect1284"
-       style="fill:url(#linearGradient3853);fill-opacity:1;stroke-width:0.559019;stroke-linejoin:round"
-       d="M 7.0000003,13 C 5.3380003,13 4,14.338 4,16 v 1 c 4e-7,2.000001 3.5817225,4 8,4 4.418278,0 8,-1.999999 8,-4 v -1 c 0,-1.662 -1.338,-3 -3,-3 z"
-       sodipodi:nodetypes="sscscsss" />
-  </g>
+  <circle
+     style="fill:url(#linearGradient2320);fill-opacity:1;stroke-width:1.34768;stroke-linecap:round;stroke-linejoin:round"
+     id="path846"
+     cx="12"
+     cy="7"
+     r="4" />
+  <path
+     id="rect1284"
+     style="fill:url(#linearGradient3853);fill-opacity:1;stroke-width:0.559019;stroke-linejoin:round"
+     d="m 7.0000001,13 c -1.662,0 -3.0000002,1.338 -3.0000002,3 v 1 c 3e-7,2.000001 3.5817226,4 8.0000001,4 4.418278,0 8,-1.999999 8,-4 v -1 c 0,-1.662 -1.338,-3 -3,-3 z"
+     sodipodi:nodetypes="sscscsss" />
 </svg>

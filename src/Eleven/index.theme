@@ -6,7 +6,7 @@ Name[ko]=Eleven
 Name[zh_TW]=Eleven
 Comment=Windows 11 Style icon theme
 Comment[en]=Windows 11 Style icon theme
-Comment[ko]=Windows 11 아이콘 테마
+Comment[ko]=Windows 11 스타일 아이콘 테마
 Inherits=Cobalt,breeze,hicolor
 Example=folder
 

@@ -41,16 +41,6 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6911"
-       id="linearGradient59378"
-       x1="35.875587"
-       y1="-37.89032"
-       x2="55.549019"
-       y2="-19.004301"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.54859725,0,0,0.55022335,-17.118994,23.730602)" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient6911">
       <stop
          style="stop-color:#50b10e;stop-opacity:1;"
@@ -61,20 +51,55 @@
          offset="1"
          id="stop6909" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6911"
+       id="linearGradient972"
+       x1="1.3532307"
+       y1="4.9990993"
+       x2="6.0129528"
+       y2="13.902143"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1,-1.0000992)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8163"
+       id="linearGradient8165"
+       x1="5.7449827"
+       y1="8.3089285"
+       x2="5.7449827"
+       y2="19.347616"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2729203,0,0,1.4494477,1.5752387,-12.043357)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8163">
+      <stop
+         style="stop-color:#e8ebf1;stop-opacity:1;"
+         offset="0"
+         id="stop8159" />
+      <stop
+         style="stop-color:#c6cfdd;stop-opacity:1"
+         offset="1"
+         id="stop8161" />
+    </linearGradient>
   </defs>
-  <circle
-     style="fill:url(#linearGradient59378);fill-opacity:1;stroke-width:0.436094;stroke-linecap:round;stroke-linejoin:round"
-     id="path55509"
-     cx="8"
-     cy="8"
-     r="8" />
+  <rect
+     style="fill:url(#linearGradient8165);fill-opacity:1;stroke-width:0.35939;stroke-linejoin:round"
+     id="rect858"
+     height="16"
+     x="0"
+     y="0"
+     width="16"
+     ry="2" />
   <path
-     id="path69248"
-     style="opacity:0.2;fill:#000000;fill-opacity:0.996078;stroke-width:0.913987;stroke-linecap:round;stroke-linejoin:round"
-     d="M 8,0 C 3.581726,0 0,3.5817276 0,8 c 0,4.418273 3.581726,8 8,8 4.418273,0 8,-3.581727 8,-8 C 16,3.5817276 12.418273,0 8,0 Z m 0,1 c 3.865988,0 7,3.1340106 7,7 0,3.865988 -3.134012,7 -7,7 C 4.1340089,15 1,11.865988 1,8 1,4.1340107 4.1340089,1 8,1 Z" />
+     id="rect964"
+     style="fill:#ffffff;stroke-width:0.999999;stroke-linejoin:round"
+     d="m 2,1.0000003 h 12 c 0.554,0 1,0.446 1,0.9999999 V 14 c 0,0.554 -0.446,1 -1,1 H 2 C 1.4460001,15 1.0000001,14.554 1.0000001,14 V 2.0000002 c 0,-0.5539999 0.446,-0.9999999 0.9999999,-0.9999999 z"
+     sodipodi:nodetypes="sssssssss" />
   <path
      id="rect1469"
-     style="fill:#ffffff;stroke-width:1.99994;stroke-linecap:round;stroke-linejoin:round"
-     d="m 7.7854562,10.822362 c -0.196762,0.177865 -0.4987009,0.1711 -0.688445,-0.01852 -0.006,-0.006 -0.01209,-0.01134 -0.01776,-0.01776 l -2.51836,-2.517099 c -0.195855,-0.195855 -0.195855,-0.5112233 0,-0.7070893 0.1958549,-0.195855 0.5112258,-0.195855 0.7070888,0 L 7.4507482,9.743405 12.046456,5.1464555 c 0.195828,-0.1958812 0.511227,-0.195855 0.707089,0 0.195855,0.195855 0.195855,0.511227 0,0.707089 L 7.8222453,10.786086 c -0.0057,0.0064 -0.01172,0.01172 -0.01776,0.01814 -0.006,0.006 -0.01209,0.01285 -0.0189,0.01852 z"
+     style="fill:url(#linearGradient972);fill-opacity:1;stroke-width:3.99988;stroke-linecap:round;stroke-linejoin:round"
+     d="m 7.5707833,12.644625 c -0.393524,0.35573 -0.997401,0.3422 -1.37689,-0.03704 -0.012,-0.012 -0.02418,-0.02268 -0.03552,-0.03552 L 2.1217825,8.5379898 c -0.39171,-0.39171 -0.39171,-1.022447 0,-1.414179 0.3917098,-0.39171 1.0224516,-0.39171 1.4141776,0 L 6.9013673,10.486711 13.092782,4.2928118 c 0.391631,-0.3917881 1.022454,-0.39171 1.414178,0 0.39171,0.39171 0.39171,1.022454 0,1.414178 L 7.6443623,12.572073 c -0.0114,0.0128 -0.02344,0.02344 -0.03552,0.03628 -0.012,0.012 -0.02418,0.0257 -0.0378,0.03704 z"
      sodipodi:nodetypes="cscccccscccccc" />
 </svg>

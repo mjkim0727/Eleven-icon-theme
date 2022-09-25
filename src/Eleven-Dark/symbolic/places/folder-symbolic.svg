@@ -37,6 +37,6 @@
      id="defs2" />
   <path
      d="M 2,1 C 0.892,1 0,1.892 0,3 v 10 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 5 C 16,3.892 15.108,3 14,3 H 8 L 6,1 Z M 2,2 H 5.5859 L 7.082,3.5039 5.5859,5 H 1 V 3 C 1,2.446 1.446,2 2,2 Z m 6,2 h 6 c 0.554,0 1,0.446 1,1 v 8 c 0,0.554 -0.446,1 -1,1 H 2 C 1.446,14 1,13.554 1,13 V 6 h 5 z"
-     style="fill:#f2f2f2;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+     style="fill:#dedede;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
      id="path347" />
 </svg>

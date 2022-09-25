@@ -36,20 +36,9 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1"
-     showguides="false" />
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6911"
-       id="linearGradient59378"
-       x1="35.875587"
-       y1="-37.89032"
-       x2="55.549019"
-       y2="-19.004301"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.61717191,0,0,0.61900127,-17.258868,28.696927)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient6911">
@@ -62,20 +51,54 @@
          offset="1"
          id="stop6909" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6911"
+       id="linearGradient972"
+       x1="2.2911475"
+       y1="6.3589897"
+       x2="6.0129528"
+       y2="13.902143"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4,2)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8163"
+       id="linearGradient8165"
+       x1="5.7449827"
+       y1="8.3089285"
+       x2="5.7449827"
+       y2="19.347616"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4320353,0,0,1.6306285,3.7721435,-11.548775)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8163">
+      <stop
+         style="stop-color:#e8ebf1;stop-opacity:1;"
+         offset="0"
+         id="stop8159" />
+      <stop
+         style="stop-color:#c6cfdd;stop-opacity:1"
+         offset="1"
+         id="stop8161" />
+    </linearGradient>
   </defs>
-  <circle
-     style="fill:url(#linearGradient59378);fill-opacity:1;stroke-width:0.490606;stroke-linecap:round;stroke-linejoin:round"
-     id="path55509"
-     cx="11"
-     cy="11"
-     r="9" />
+  <rect
+     style="fill:url(#linearGradient8165);fill-opacity:1;stroke-width:0.404315;stroke-linejoin:round"
+     id="rect858"
+     height="18"
+     x="2"
+     y="2"
+     width="18"
+     ry="2" />
   <path
-     id="path69248"
-     style="opacity:0.2;fill:#000000;fill-opacity:0.996078;stroke-width:1.02824;stroke-linecap:round;stroke-linejoin:round"
-     d="m 11,2 c -4.9705533,0 -9,4.0294485 -9,9 0,4.970552 4.0294467,9 9,9 4.970552,0 9,-4.029448 9,-9 0,-4.9705515 -4.029448,-9 -9,-9 z m 0,1 c 4.418273,0 8,3.5817265 8,8 0,4.418273 -3.581727,8 -8,8 C 6.5817244,19 3,15.418273 3,11 3,6.5817265 6.5817244,3 11,3 Z" />
+     id="rect964"
+     style="fill:#ffffff;stroke-width:0.999999;stroke-linejoin:round"
+     d="M 4.0000001,3.0000001 H 18.000001 c 0.554,0 1,0.446 1,1 V 18 c 0,0.554 -0.446,1 -1,1 H 4.0000001 c -0.554,0 -1,-0.446 -1,-1 V 4.0000001 c 0,-0.554 0.446,-1 1,-1 z" />
   <path
-     id="rect809"
-     style="fill:#ffffff;stroke-linecap:round;stroke-linejoin:round"
-     d="m 5.7578025,10.17123 c -0.3917367,0.391736 -0.3917367,1.022477 0,1.414213 l 3.5355338,3.535534 c 0.3917365,0.391737 1.0224777,0.391737 1.4142137,0 l 6.36396,-6.3639613 c 0.391737,-0.391736 0.391737,-1.022477 0,-1.414213 -0.391736,-0.391737 -1.022477,-0.391737 -1.414213,0 L 10.000443,12.999657 7.1720159,10.17123 c -0.3917363,-0.3917373 -1.0224772,-0.3917373 -1.4142134,0 z"
-     sodipodi:nodetypes="ssssssscss" />
+     id="rect1469"
+     style="fill:url(#linearGradient972);fill-opacity:1;stroke-width:3.99988;stroke-linecap:round;stroke-linejoin:round"
+     d="m 10.570783,15.644724 c -0.393524,0.35573 -0.997401,0.3422 -1.37689,-0.03704 -0.012,-0.012 -0.02418,-0.02268 -0.03552,-0.03552 L 5.1217825,11.538089 c -0.39171,-0.39171 -0.39171,-1.022447 0,-1.414179 0.3917098,-0.39171 1.0224516,-0.39171 1.4141776,0 l 3.3654069,3.3629 6.191544,-6.193899 c 0.391635,-0.3917838 1.022454,-0.39171 1.414178,0 0.39171,0.39171 0.39171,1.022454 0,1.414178 l -6.862727,6.865083 c -0.0114,0.0128 -0.02344,0.02344 -0.03552,0.03628 -0.012,0.012 -0.02418,0.0257 -0.0378,0.03704 z"
+     sodipodi:nodetypes="cscccccscccccc" />
 </svg>

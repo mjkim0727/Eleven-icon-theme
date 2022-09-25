@@ -38,7 +38,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#f2f2f2; } .ColorScheme-Highlight { color:#3daee9; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
+   .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#3daee9; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style>
   </defs>
   <path
      id="path398"
