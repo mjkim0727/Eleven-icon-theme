@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="fcitx-hangul-panel.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,11 +24,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="36.454545"
-     inkscape:cx="11"
+     inkscape:zoom="37.727273"
+     inkscape:cx="10.986747"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40,7 +40,7 @@
        type="text/css">.ColorScheme-Text { color:#363636; }</style>
   </defs>
   <path
-     d="M 7,3 V 5 H 3 v 1 h 9 V 5 H 8 V 3 Z m 7,0 v 11 h 1 V 9 h 2 V 8 H 15 V 3 Z M 7.5,7 C 5.5670034,7 4,8.3431458 4,10 4,11.656854 5.5670034,13 7.5,13 9.4329966,13 11,11.656854 11,10 11,8.3431458 9.4329966,7 7.5,7 Z m 0,1 C 8.8807119,8 10,8.8954305 10,10 10,11.10457 8.8807119,12 7.5,12 6.1192881,12 5,11.10457 5,10 5,8.8954305 6.1192881,8 7.5,8 Z M 6,14 v 4 h 9 V 17 H 7 v -3 z"
+     d="M 8,3 V 5 H 4 v 1 h 9 V 5 H 9 V 3 Z m 7,0 v 11 h 1 V 9 h 2 V 8 H 16 V 3 Z M 8.5,7 C 6.5670034,7 5,8.3431458 5,10 5,11.656854 6.5670034,13 8.5,13 10.432997,13 12,11.656854 12,10 12,8.3431458 10.432997,7 8.5,7 Z m 0,1 C 9.8807119,8 11,8.8954305 11,10 11,11.10457 9.8807119,12 8.5,12 7.1192881,12 6,11.10457 6,10 6,8.8954305 7.1192881,8 8.5,8 Z M 7,14 v 4 h 9 V 17 H 8 v -3 z"
      style="fill:currentColor;fill-opacity:1"
      class="ColorScheme-Text"
      id="path4143" />
