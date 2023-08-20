@@ -7,7 +7,7 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg2112"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="kaffeine.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="36.818182"
-     inkscape:cx="11"
+     inkscape:zoom="37.727273"
+     inkscape:cx="10.986747"
      inkscape:cy="11"
      inkscape:window-width="1920"
-     inkscape:window-height="1012"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -68,7 +68,7 @@
        x2="4.7955728"
        y2="4.8121095"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.4094485,0,0,4.8949005,-13.14583,-15.145016)" />
+       gradientTransform="matrix(5.0393695,0,0,4.8949005,-16.166662,-15.145016)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3143">
@@ -117,8 +117,8 @@
      cy="11"
      r="8" />
   <path
-     style="color:#000000;fill:url(#linearGradient1070);fill-opacity:1;stroke:none;stroke-width:6.61464;stroke-linecap:round;stroke-linejoin:round"
-     d="M 8.515023,6.0736966 C 8.2061543,6.2145232 8.0032779,6.5469799 8.0000237,6.9176283 v 8.1520727 c -0.00511,0.827894 0.8990261,1.243214 1.4223743,0.653367 l 5.333084,-4.076658 c 0.326027,-0.360397 0.326027,-0.946332 0,-1.306732 L 9.4224002,6.2642617 C 9.1825522,6.0027482 8.8243511,5.9275224 8.515023,6.0736966 Z"
+     style="color:#000000;fill:url(#linearGradient1070);fill-opacity:1;stroke:none;stroke-width:7.07135;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.5885974,6.0736966 C 8.2356046,6.2145232 8.0037459,6.5469799 8.0000268,6.9176283 v 8.1520727 c -0.00584,0.827894 1.0274584,1.243214 1.6255706,0.653367 L 15.72055,11.64641 c 0.372603,-0.360397 0.372603,-0.946332 0,-1.306732 L 9.6255999,6.2642617 C 9.3514879,6.0027482 8.9421152,5.9275224 8.5885974,6.0736966 Z"
      id="path2850"
      sodipodi:nodetypes="cccccccc" />
 </svg>

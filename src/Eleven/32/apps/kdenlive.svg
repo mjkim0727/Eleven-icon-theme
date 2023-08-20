@@ -7,7 +7,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="kdenlive.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="25.0625"
-     inkscape:cx="15.98005"
+     inkscape:zoom="25.9375"
+     inkscape:cx="15.980723"
      inkscape:cy="16"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -93,7 +93,8 @@
        y1="7.000001"
        x2="16.000002"
        y2="2.0000012"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.79991726,0,0,0.7856333,3.2013237,1.2143667)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2401"
@@ -137,12 +138,12 @@
      width="1.9999999"
      height="25"
      x="15"
-     y="5" />
+     y="5"
+     ry="1" />
   <path
-     d="m 20.000001,2.0000011 h -8 l 3.999999,5"
-     style="fill:url(#linearGradient15940);stroke-width:0.645495;fill-opacity:1"
-     id="path424"
-     sodipodi:nodetypes="ccc" />
+     id="path1035"
+     style="color:#000000;fill:url(#linearGradient15940);stroke:none;stroke-width:1.58548;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 12.800331,2 a 0.79999727,0.78571185 0 0 0 -0.624935,1.276654 l 3.199669,3.9281664 a 0.79999727,0.78571185 0 0 0 1.249871,0 L 19.824605,3.276654 A 0.79999727,0.78571185 0 0 0 19.19967,2 Z" />
   <path
      d="m 11.000001,8 v 2 H 13 V 8 Z m -2.0000006,3 v 2 H 13 v -2 z m -4.0000003,3 v 2 H 13 V 14 Z M 3.0000002,16.999999 V 19 H 13 v -2.000001 z m 1.9999999,3 V 22 H 13 v -2.000001 z m 4.0000003,3 V 25 H 13 v -2.000001 z"
      style="fill:url(#linearGradient15956);fill-rule:evenodd;stroke-width:0.999999;fill-opacity:1"
