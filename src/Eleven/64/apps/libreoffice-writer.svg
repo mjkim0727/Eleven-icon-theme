@@ -7,7 +7,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg1015"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    sodipodi:docname="libreoffice-writer.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="12.8125"
-     inkscape:cx="22.985366"
+     inkscape:zoom="12.96875"
+     inkscape:cx="31.961446"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -101,7 +101,7 @@
      width="28"
      height="2"
      x="17.999998"
-     y="27.492199"
+     y="28"
      ry="1" />
   <rect
      style="fill:#0087df;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
@@ -109,7 +109,7 @@
      width="28.000004"
      height="2"
      x="18"
-     y="33.492195"
+     y="33.999996"
      ry="1" />
   <rect
      style="fill:#285fd9;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
@@ -117,7 +117,7 @@
      width="28.000006"
      height="2.0000019"
      x="18"
-     y="39.492191"
+     y="39.999992"
      ry="1" />
   <rect
      style="fill:#134ba1;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
@@ -125,6 +125,6 @@
      width="16"
      height="2.0000019"
      x="18"
-     y="45.492184"
+     y="45.999985"
      ry="1" />
 </svg>
