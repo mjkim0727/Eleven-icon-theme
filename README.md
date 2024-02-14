@@ -2,6 +2,10 @@
 
 Windows 11 Style icon theme, Successed of Cobalt-icons
 
+## Features
+
+* Following Windows 11 Design, but remixed for Linux.
+
 ## Sources
 
 * Segoe Fluent
@@ -9,6 +13,8 @@ Windows 11 Style icon theme, Successed of Cobalt-icons
 * Cobalt-icons
 
 ## Installation
+
+* Using script(local only)
 
 ## Preview
 
