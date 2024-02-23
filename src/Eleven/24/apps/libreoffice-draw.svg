@@ -7,7 +7,7 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    sodipodi:docname="libreoffice-draw.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,11 +26,11 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="34.458333"
-     inkscape:cx="11.98549"
+     inkscape:zoom="33.791667"
+     inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
+     inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -95,19 +95,14 @@
      style="fill:url(#linearGradient3212);fill-opacity:1;stroke-width:2.00002"
      id="path3058"
      sodipodi:nodetypes="ccccssc" />
-  <path
-     d="m 5.9999509,2.9999756 c -0.5539866,0 -0.9999755,0.4459888 -0.9999755,0.9999754 V 19.99956 c 0,0.553986 0.4459889,0.999974 0.9999755,0.999974 H 17.999658 c 0.553986,0 0.999975,-0.445988 0.999975,-0.999974 V 11.499378 C 18.99317,10.703653 18.633159,10.170144 18.300431,9.8002002 L 12.199409,3.6991771 C 11.829465,3.3664508 11.295957,3.0064448 10.500232,2.9999756 Z"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.264576"
-     id="path863"
-     sodipodi:nodetypes="ssssssccccs" />
   <circle
-     style="fill:#f6be00;fill-opacity:1;stroke-width:0.74998;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.656249;stroke-linecap:round;stroke-linejoin:round"
      id="path12373"
-     cx="10.999828"
-     cy="12.999731"
-     r="3.999902" />
+     cx="10.499927"
+     cy="12.499829"
+     r="3.5" />
   <path
      id="path14298"
-     style="color:#000000;fill:#e37a00;fill-opacity:1;stroke:none;stroke-width:0.832655;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#000000;fill:#ffdaaf;fill-opacity:1;stroke:none;stroke-width:0.832655;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 12.99978,11.999757 a 0.42098709,0.41179573 0 0 0 -0.366681,0.207888 l -3.5780341,6.176319 a 0.42098709,0.41179573 0 0 0 0.3666808,0.615621 h 7.1564773 a 0.42098709,0.41179573 0 0 0 0.366272,-0.615622 L 13.366462,12.207644 A 0.42098709,0.41179573 0 0 0 12.99978,11.999757 Z" />
 </svg>
