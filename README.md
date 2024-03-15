@@ -5,6 +5,7 @@ Windows 11 Style icon theme, Successed of Cobalt-icons
 ## Features
 
 * Following Windows 11 Design, but remixed for Linux.
+* KDE 6 Support(Experimental)
 
 ## Sources
 
