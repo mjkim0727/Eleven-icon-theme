@@ -1,9 +1,42 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; }</style>
- </defs>
- <path d="m6 0c-0.554 0-1 0.446-1 1v1h-4v1h1v12c0 0.554 0.446 1 1 1h9c0.554 0 1-0.446 1-1v-12h1v-1h-4v-1c0-0.554-0.446-1-1-1h-3zm0 1h3v1h-3v-1zm-3 2h3 3 3v12h-9v-12z" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="paint-order:stroke fill markers"/>
- <rect x="5" y="5" width="1" height="8" rx="0" ry="0" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="paint-order:stroke fill markers"/>
- <rect x="7" y="5" width="1" height="8" rx="0" ry="0" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="paint-order:stroke fill markers"/>
- <rect x="9" y="5" width="1" height="8" rx="0" ry="0" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="paint-order:stroke fill markers"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="user-trash-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.625"
+     inkscape:cx="8.0098765"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     d="M 8,0 C 6.7309013,0.0025929 5.600734,0.8034812 5.1777344,2 H 1 C 0.7238603,2 0.5,2.2238603 0.5,2.5 L 0.50781,2.589844 C 0.5501425,2.8230835 0.7545402,3 1,3 h 0.5527344 l 1.296875,11.228516 C 2.9660493,15.237715 3.8200885,16 4.8359375,16 h 6.3281245 c 1.015899,0 1.869929,-0.762265 1.986329,-1.771484 L 14.445312,3 H 15 C 15.2761,3 15.5,2.7761397 15.5,2.5 15.5,2.2238603 15.2761,2 15,2 H 10.828125 C 10.404385,0.8015012 9.271199,10e-5 8,0 Z m 0,1 c 0.713979,5.537e-4 1.373469,0.3816806 1.730469,1 H 6.2753906 C 6.6313203,1.3835006 7.2881007,1.00265 8,1 Z M 2.5605469,3 H 13.4375 L 12.15625,14.115234 C 12.09805,14.619834 11.672062,15 11.164062,15 H 4.8359375 C 4.327998,15 3.9019699,14.619834 3.84375,14.115234 Z M 6.5,5 C 6.2230003,5 6,5.2230003 6,5.5 v 7 C 6,12.777 6.2230003,13 6.5,13 6.7769997,13 7,12.777 7,12.5 v -7 C 7,5.2230003 6.7769997,5 6.5,5 Z m 3,0 C 9.223,5 9,5.2230003 9,5.5 v 7 C 9,12.777 9.223,13 9.5,13 9.777,13 10,12.777 10,12.5 v -7 C 10,5.2230003 9.777,5 9.5,5 Z"
+     id="path1"
+     style="fill:#dedede;fill-opacity:1" />
 </svg>

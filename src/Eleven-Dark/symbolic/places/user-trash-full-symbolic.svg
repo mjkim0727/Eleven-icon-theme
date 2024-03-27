@@ -1,6 +1,42 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; }</style>
- </defs>
- <path d="m6 0c-0.554 0-1 0.446-1 1v1h-4v1h1v12c0 0.554 0.446 1 1 1h9c0.554 0 1-0.446 1-1v-12h1v-1h-4v-1c0-0.554-0.446-1-1-1h-3zm0 1h3v1h-3v-1zm-1 4h1v8h-1v-8zm2 0h1v8h-1v-8zm2 0h1v8h-1v-8z" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="paint-order:stroke fill markers"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="user-trash-full-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.625"
+     inkscape:cx="8.0098765"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path1"
+     style="fill:#dedede;fill-opacity:1"
+     d="M 8 0 C 6.7309026 0.0025928974 5.6007336 0.8034824 5.1777344 2 L 1 2 C 0.72386058 2 0.5 2.2238606 0.5 2.5 L 0.5078125 2.5898438 C 0.55014496 2.823083 0.75454045 3 1 3 L 1.5527344 3 L 2.8496094 14.228516 C 2.9660492 15.237714 3.8200895 16 4.8359375 16 L 11.164062 16 C 12.17996 16 13.033991 15.237734 13.150391 14.228516 L 14.445312 3 L 15 3 C 15.2761 3 15.5 2.7761394 15.5 2.5 C 15.5 2.2238606 15.2761 2 15 2 L 10.828125 2 C 10.404385 0.8015024 9.2711977 9.99999e-05 8 0 z M 8 1 C 8.7139783 1.0005537 9.3734691 1.3816812 9.7304688 2 L 6.2753906 2 C 6.63132 1.3835012 7.2881014 1.00265 8 1 z M 6.5 5 C 6.7769994 5 7 5.2230006 7 5.5 L 7 12.5 C 7 12.777 6.7769994 13 6.5 13 C 6.2230006 13 6 12.777 6 12.5 L 6 5.5 C 6 5.2230006 6.2230006 5 6.5 5 z M 9.5 5 C 9.7769997 5 10 5.2230006 10 5.5 L 10 12.5 C 10 12.777 9.7769997 13 9.5 13 C 9.2230003 13 9 12.777 9 12.5 L 9 5.5 C 9 5.2230006 9.2230003 5 9.5 5 z " />
 </svg>
