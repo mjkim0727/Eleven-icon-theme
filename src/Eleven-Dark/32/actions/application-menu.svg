@@ -1,11 +1,49 @@
-<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#dedede;
-      }</style>
- </defs>
- <path d="m16 3a13 13 0 0 0-13 13 13 13 0 0 0 13 13 13 13 0 0 0 13-13 13 13 0 0 0-13-13zm0 1a12 12 0 0 1 12 12 12 12 0 0 1-12 12 12 12 0 0 1-12-12 12 12 0 0 1 12-12z" class="ColorScheme-Text" fill="currentColor"/>
- <circle cx="10" cy="16" r="1" class="ColorScheme-Text" fill="currentColor"/>
- <circle cx="16" cy="16" r="1" class="ColorScheme-Text" fill="currentColor"/>
- <circle cx="22" cy="16" r="1" class="ColorScheme-Text" fill="currentColor"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="application-menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="25.5"
+     inkscape:cx="15.980392"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color:#dedede; }
+    </style>
+  </defs>
+  <path
+     id="rect181"
+     style="fill:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="M 6.5,7 C 6.2230006,7 6,7.2230006 6,7.5 6,7.7769994 6.2230006,8 6.5,8 h 19 C 25.777,8 26,7.7769994 26,7.5 26,7.2230006 25.777,7 25.5,7 Z m 0,8 C 6.2230006,15 6,15.223 6,15.5 6,15.777 6.2230006,16 6.5,16 h 19 C 25.777,16 26,15.777 26,15.5 26,15.223 25.777,15 25.5,15 Z m 0,8 C 6.2230006,23 6,23.223 6,23.5 6,23.777 6.2230006,24 6.5,24 h 19 C 25.777,24 26,23.777 26,23.5 26,23.223 25.777,23 25.5,23 Z" />
 </svg>

@@ -1,7 +1,42 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
- </defs>
- <path d="m1 2c-0.554 0-1 0.446-1 1v10c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-10c0-0.554-0.446-1-1-1h-14zm0 1h14v10h-14v-10z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4412" style="paint-order:stroke fill markers"/>
- <rect x="2" y="11" width="12" height="1" rx="0" ry="0" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="paint-order:stroke fill markers"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="user-desktop-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="51"
+     inkscape:cx="7.9901961"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect5459"
+     style="fill:#363636;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+     d="M 2 2 C 0.89200331 2 0 2.8920033 0 4 L 0 12 C 0 13.107997 0.89200331 14 2 14 L 14 14 C 15.107997 14 16 13.107997 16 12 L 16 4 C 16 2.8920033 15.107997 2 14 2 L 2 2 z M 2 3 L 14 3 C 14.553997 3 15 3.4460018 15 4 L 15 12 C 15 12.553997 14.553997 13 14 13 L 2 13 C 1.4460018 13 1 12.553997 1 12 L 1 4 C 1 3.4460018 1.4460018 3 2 3 z M 2.5 11 C 2.2230006 11 2 11.223 2 11.5 C 2 11.777 2.2230006 12 2.5 12 L 13.5 12 C 13.777 12 14 11.777 14 11.5 C 14 11.223 13.777 11 13.5 11 L 2.5 11 z " />
 </svg>
