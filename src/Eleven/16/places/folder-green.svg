@@ -89,7 +89,7 @@
          offset="0"
          id="stop1299" />
       <stop
-         style="stop-color:#0099a6;stop-opacity:1"
+         style="stop-color:#00956b;stop-opacity:1"
          offset="1"
          id="stop1301" />
     </linearGradient>
@@ -118,7 +118,7 @@
      sodipodi:nodetypes="ccsccccccsc" />
   <path
      id="rect1170-2"
-     style="fill:#0c575f;fill-opacity:1;stroke-width:0.66144;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:7.93723, 0.66144"
+     style="fill:#0c5f3c;fill-opacity:1;stroke-width:0.66144;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:7.93723, 0.66144"
      d="m 0,13.500217 v 1 c 0,0.277002 0.22299968,0.5 0.50000012,0.5 H 15.5 c 0.277001,0 0.5,-0.222999 0.5,-0.5 v -1 c 0,0.276998 -0.223,0.5 -0.5,0.5 H 0.50000012 C 0.22299855,14.000217 0,13.777218 0,13.500217 Z"
      sodipodi:nodetypes="csssscssc" />
   <path
