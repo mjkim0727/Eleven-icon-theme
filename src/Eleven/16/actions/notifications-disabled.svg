@@ -1,11 +1,55 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-            color:#363636;
-        }
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }</style>
-    <circle cx="9.148" cy="2.5" r="0"/>
-    <path class="ColorScheme-NegativeText" d="M 2,2.7071118 2.7071065,2 14,13.266998 13.292891,14 Z" fill="currentColor"/>
-    <path d="m8 2a1 1 0 0 0-1 1 1 1 0 0 0 0.0136719 0.1699219 3 3 0 0 0-1.2734375 0.8632812l0.7070312 0.7070313a2 2 0 0 1 1.5527344-0.7402344 2 2 0 0 1 2 2c0 1.5854753 0.542693 2.6545091 1.371094 3.6640625l1.335937 1.3359375h0.292969v-1c-1.335506-1.335506-2-2.132154-2-4a3 3 0 0 0-2.015625-2.8300781 1 1 0 0 0 0.015625-0.1699219 1 1 0 0 0-1-1zm-3.0351562 4.671875c-0.149308 1.4098615-0.8014687 2.1647502-1.9648438 3.328125v1h6.2929688l-1-1h-2.2929688-1.6386719c0.673578-0.755548 1.182577-1.5239094 1.4433594-2.4882812l-0.8398437-0.8398438zm1.6230468 5.328125a1.5 1.5 0 0 0-0.0878906 0.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-0.0878906-0.5h-2.8242188z" class="ColorScheme-Text" fill="currentColor"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="notifications-disabled.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="43.25"
+     inkscape:cx="7.9884393"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="899"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showguides="false" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#3daee9; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     d="M 7.994141,1 C 6.614342,1 5.3414709,1.4481789 4.3261719,2.2050781 l 0.71875,0.71875 C 5.871801,2.3448387 6.889542,2 7.994141,2 c 2.696997,0 4.892947,2.0340244 4.998047,4.607422 l 0.0039,0.205078 V 10.5 l 0.03906,0.191406 0.158203,0.38086 1.792969,1.792968 -0.01172,-0.07813 c -0.0127,-0.0569 -0.03013,-0.111915 -0.05273,-0.166015 L 13.996088,10.398438 V 6.802734 l -0.0039,-0.224609 -0.01367,-0.222656 C 13.738016,3.3349718 11.143137,1 7.994141,1 Z M 3.578125,2.8710938 C 2.6461259,3.8487528 2.0562999,5.1370608 2,6.568359 l -0.00391,0.22461 v 3.607422 L 1.0722656,12.621094 1.0292969,12.748047 1.0078125,12.875 c -0.0504,0.4635 0.192736,0.881765 0.6035156,1.052734 l 0.125,0.04297 c 0.08456,0.0228 0.1718157,0.0332 0.2597657,0.0332 H 4 V 14 H 5.1777344 C 5.6007616,15.19651 6.730913,15.997393 8,16 9.269087,15.9974 10.399239,15.19651 10.822266,14 H 13 v 0.0039 h 0.998047 l 0.134765,-0.0098 0.115235,-0.02734 c 0.10697,-0.03048 0.205219,-0.07622 0.292969,-0.132813 L 13.712891,13.005859 H 11 v -0.002 -0.002 V 13 h -1 v 0.002 0.002 0.002 L 6,13.004 V 13 H 5 v 0.0039 H 1.9960938 L 2.9589844,10.691406 2.9960938,10.5 V 6.802734 L 3,6.597656 3.0136719,6.384766 C 3.1057178,5.3060667 3.5699038,4.3316711 4.2832031,3.5761719 Z M 6.275391,14 H 9.724609 C 9.368676,14.616506 8.711871,14.997348 8,15 7.288129,14.9973 6.631324,14.616506 6.275391,14 Z"
+     id="path1"
+     style="fill:currentColor;fill-opacity:1"
+     class="ColorScheme-Text" />
+  <path
+     d="m 1.2834179,0.781 c -0.1278098,0 -0.2555807,0.050503 -0.3535156,0.1484375 -0.1958698,0.1958698 -0.1958698,0.5111614 0,0.7070313 L 14.363496,15.070062 c 0.19587,0.19587 0.511162,0.19587 0.707031,0 0.19587,-0.195869 0.19587,-0.511161 0,-0.707031 L 1.6369336,0.9294375 C 1.5389986,0.8315026 1.4112278,0.781 1.2834179,0.781 Z"
+     style="fill:currentColor;fill-opacity:1;-inkscape-stroke:none;paint-order:stroke fill markers"
+     class="ColorScheme-NegativeText"
+     id="path2" />
 </svg>
