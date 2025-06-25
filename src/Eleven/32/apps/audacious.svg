@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="audacious.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="24.6875"
+     inkscape:cx="15.979747"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1788"
+       id="linearGradient1132"
+       x1="13.758333"
+       y1="13.229166"
+       x2="3.7041652"
+       y2="3.7041662"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7637795,0,0,1.7637795,1.0666676,1.0666685)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3143"
+       id="linearGradient1010"
+       x1="11.90625"
+       y1="12.700001"
+       x2="4.4979177"
+       y2="4.7625003"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8141732,0,0,1.8141732,0.63999982,0.6400001)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1788">
+      <stop
+         style="stop-color:#232223;stop-opacity:1;"
+         offset="0"
+         id="stop1784" />
+      <stop
+         style="stop-color:#49484d;stop-opacity:1"
+         offset="1"
+         id="stop1786" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3143">
+      <stop
+         style="stop-color:#d2d2d2;stop-opacity:1;"
+         offset="0"
+         id="stop3139" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop3141" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1788"
+       id="linearGradient2"
+       x1="11.716049"
+       y1="11.002988"
+       x2="4.5204659"
+       y2="5.3931112"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(2)" />
+  </defs>
+  <circle
+     style="fill:url(#linearGradient1132);fill-opacity:1;stroke-width:0.933335;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:11.2, 0.933335"
+     id="path846"
+     cx="16"
+     cy="16"
+     r="14" />
+  <circle
+     style="fill:url(#linearGradient1010);fill-opacity:1;stroke-width:0.96;stroke-linecap:round;stroke-linejoin:round"
+     id="path922"
+     cx="16"
+     cy="16"
+     r="12" />
+  <path
+     d="m 16.659054,9.149046 c -0.212508,-0.008 -0.426128,0.0013 -0.652344,0.0118 -1.33468,0.0617 -3.699774,0.0122 -4.621094,1.171876 -0.562972,0.70847 -0.30021,2.356138 0.5625,2.527344 1.074874,0.213192 2.89409,-0.313498 4.058594,-0.1836 0.812326,0.09066 1.042612,0.785906 0.382812,1.26953 -0.70093,0.512074 -2.291022,0.356218 -3.09375,0.613282 -2.774928,0.889444 -3.76918,2.774614 -3.089844,5.328126 0.44318,1.664066 2.011804,2.898484 3.722656,2.968748 3.289916,-0.0086 2.675732,-1.78138 4.269532,-0.859374 0.524412,0.64609 1.5844,0.852586 2.132814,0.398438 0.880874,-0.72835 2.205246,-1.116688 1.26953,-2.609376 -0.449006,-0.71464 0.59978,-1.643154 0.363282,-5.199218 C 21.756376,11.43158 19.86256,9.270114 16.66296,9.149122 Z m -0.63672,7.125 c 1.104648,0 1.976564,0.827534 1.976564,1.855468 0,1.027936 -0.871916,1.871094 -1.976564,1.871094 -1.107204,0 -2.023436,-0.843158 -2.023436,-1.871094 0,-1.027934 0.916232,-1.855468 2.023436,-1.855468 z"
+     style="color:#dedede;fill:url(#linearGradient2);stroke-width:2"
+     id="path1-5" />
+</svg>
