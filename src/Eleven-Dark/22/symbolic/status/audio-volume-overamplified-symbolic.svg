@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg423"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="audio-volume-overamplified-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview425"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.045455"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg423" />
+  <defs
+     id="defs420">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path408"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 18.5,4 C 18.223,4 18,4.2230006 18,4.5 v 13 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 V 4.5 C 19,4.2230006 18.777,4 18.5,4 Z M 8.9863281,5.7089844 C 8.7273022,5.7127935 8.4779826,5.8165087 8.2929688,6.0019531 L 6.296875,8 H 5 C 3.9093044,8 3,8.9093044 3,10 v 2 c 0,1.090696 0.9093044,2 2,2 h 1.296875 l 1.9960938,1.998047 C 8.9229623,16.627545 9.999622,16.181612 10,15.291016 V 6.7089844 C 9.999974,6.3045808 9.756401,5.9399911 9.382813,5.7851562 9.291843,5.7471432 9.195752,5.7227912 9.097656,5.7128902 9.060406,5.7092702 9.023336,5.7084402 8.9863281,5.7089802 Z M 15.5,6 C 15.223,6 15,6.2230006 15,6.5 v 9 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -9 C 16,6.2230006 15.777,6 15.5,6 Z M 9,6.7109375 V 15.289062 L 6.7109375,13 H 5 C 4.4460024,13 4,12.553997 4,12 V 10 C 4,9.446002 4.4460024,9 5,9 H 6.7109375 Z M 12.5,8 C 12.223001,8 12,8.2230006 12,8.5 v 5 c 0,0.277 0.223001,0.5 0.5,0.5 0.276999,0 0.5,-0.223 0.5,-0.5 v -5 C 13,8.2230006 12.776999,8 12.5,8 Z" />
+</svg>

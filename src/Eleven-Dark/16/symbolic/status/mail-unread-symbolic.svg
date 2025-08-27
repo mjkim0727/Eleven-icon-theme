@@ -33,9 +33,16 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <defs
-     id="defs1" />
+     id="defs1">
+     <style
+        id="current-color-scheme"
+        type="text/css">
+        .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#3daee9; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
   <circle
-     style="opacity:1;fill:#3daee9;fill-opacity:1;stroke-width:3.33333"
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:3.33333"
+     class="ColorScheme-Highlight question"
      id="path2"
      cx="8"
      cy="8"

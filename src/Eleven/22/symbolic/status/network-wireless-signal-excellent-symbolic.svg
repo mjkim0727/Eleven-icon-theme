@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg427"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="network-wireless-signal-excellent-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview429"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="36.045455"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg427" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+     </style>
+  </defs>
+  <path
+     id="path1"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 11.0001,5 C 7.7855237,5 4.8124659,6.7160956 3.205178,9.5 3.0668083,9.739428 3.1490662,10.045707 3.3887718,10.183594 3.6281992,10.321963 3.9344784,10.239706 4.0723655,10 5.501823,7.5241071 8.1411849,6 11.0001,6 c 2.858914,0 5.498279,1.5241073 6.927734,4 0.137887,0.239706 0.444166,0.321964 0.683594,0.183594 C 18.851134,10.045707 18.933392,9.739428 18.795022,9.5 17.187732,6.7160958 14.214676,5 11.0001,5 Z m 0,3 C 8.8573182,8 6.8761779,9.144297 5.8047874,11 5.6660902,11.238916 5.7474309,11.545037 5.986428,11.683594 6.2258554,11.821963 6.5321346,11.739704 6.6700218,11.5 7.563582,9.952308 9.2129789,9 11.0001,9 c 1.787121,0 3.436518,0.952308 4.330078,2.5 0.137887,0.239706 0.444166,0.321963 0.683594,0.183594 C 16.252769,11.545036 16.33411,11.238915 16.195412,11 15.124025,9.144297 13.142882,8 11.0001,8 Z m 0,3 c -1.0709891,0 -2.0621622,0.572496 -2.5976563,1.5 -0.1386974,0.238915 -0.057356,0.545036 0.1816406,0.683594 0.2394268,0.13837 0.5457076,0.05611 0.6835936,-0.183594 0.357665,-0.619495 1.0170931,-1 1.7324221,-1 0.715328,0 1.374757,0.380505 1.732422,1 0.137886,0.239706 0.444166,0.321964 0.683594,0.183594 C 13.65511,13.045036 13.736454,12.738915 13.597756,12.5 13.062264,11.572496 12.071089,11 11.0001,11 Z m 0,3 c -0.552216,-2.87e-4 -0.99939,0.447786 -1,1 -2.871e-4,0.552849 0.44715,1.000288 1,1 0.552215,-6.1e-4 1.000287,-0.447786 1,-1 -6.09e-4,-0.55158 -0.448419,-0.999391 -1,-1 z" />
+</svg>
