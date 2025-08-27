@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg5"
    sodipodi:docname="battery-symbolic.svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="50.5625"
-     inkscape:cx="7.9802225"
-     inkscape:cy="8"
+     inkscape:zoom="33.208333"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -46,5 +46,5 @@
      id="path1017"
      style="fill:currentColor;fill-opacity:1"
      class="ColorScheme-Text"
-     d="m 12,3 c 1.107997,0 2,0.8920033 2,2 v 1.1367188 c 1.107998,0 2,0.8920022 2,2 0,1.1079976 -0.892002,2.0000002 -2,2.0000002 V 11 c 0,1.107997 -0.892003,2 -2,2 H 2 C 0.892003,13 0,12.107997 0,11 V 5 C 0,3.8920033 0.892003,3 2,3 Z m 0,1 H 2 C 1.446003,4 1,4.4460018 1,5 v 6 c 0,0.553997 0.446003,1 1,1 h 10 c 0.553998,0 1,-0.446003 1,-1 V 5 C 13,4.4460018 12.553998,4 12,4 Z m 0,1 v 6 H 2 V 5 Z" />
+     d="m 16,7 c 1.107997,0 2,0.8920033 2,2 v 1.136719 c 1.107998,0 2,0.892002 2,2 0,1.107997 -0.892002,2 -2,2 V 15 c 0,1.107997 -0.892003,2 -2,2 H 6 C 4.892003,17 4,16.107997 4,15 V 9 C 4,7.8920033 4.892003,7 6,7 Z m 0,1 H 6 C 5.446003,8 5,8.4460018 5,9 v 6 c 0,0.553997 0.446003,1 1,1 h 10 c 0.553998,0 1,-0.446003 1,-1 V 9 C 17,8.4460018 16.553998,8 16,8 Z m 0,1 v 6 H 6 V 9 Z" />
 </svg>
