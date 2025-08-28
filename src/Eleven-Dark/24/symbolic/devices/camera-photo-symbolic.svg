@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="16"
-   height="16"
-   enable-background="new"
+   width="24"
+   height="24"
    version="1.1"
-   id="svg1"
-   sodipodi:docname="edit-copy-symbolic.svg"
+   viewBox="0 0 24 24"
+   id="svg2"
+   sodipodi:docname="camera-photo-symbolic.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1">
-     <style
-        id="current-color-scheme"
-        type="text/css">
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
         .ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
      </style>
   </defs>
   <sodipodi:namedview
-     id="namedview1"
+     id="namedview2"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -28,18 +28,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="49.8125"
-     inkscape:cx="7.9899624"
-     inkscape:cy="8"
+     inkscape:zoom="33.208333"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg2" />
   <path
      id="path1"
-     style="fill:currentColor;fill-opacity:1"
+     style="fill:currentColor"
      class="ColorScheme-Text"
-     d="M 6 0 C 4.8954 0 4 0.89543 4 2 L 4 12 C 4 13.1046 4.89543 14 6 14 L 12 14 C 13.1046 14 14 13.1046 14 12 L 14 2 C 14 0.8954 13.1046 0 12 0 L 6 0 z M 6 1 L 12 1 C 12.5523 1 13 1.44772 13 2 L 13 12 C 13 12.5523 12.5523 13 12 13 L 6 13 C 5.44772 13 5 12.5523 5 12 L 5 2 C 5 1.44772 5.44772 1 6 1 z M 3 2.2675781 C 2.4022 2.6133781 2 3.25972 2 4 L 2 12.5 C 2 14.433 3.567 16 5.5 16 L 10 16 C 10.7403 16 11.386622 15.5978 11.732422 15 L 5.5 15 C 4.1193 15 3 13.8807 3 12.5 L 3 2.2675781 z " />
+     d="M 10,5 8,7 H 7 C 5.892,7 5,7.89201 5,9 v 7 c 0,1.108 0.89201,2 2,2 h 10 c 1.108,0 2,-0.89201 2,-2 V 9 C 19,7.892 18.10799,7 17,7 H 16 L 14,5 Z m 0.414063,1 h 3.171875 l 2,2 H 16.65625 17 c 0.55399,0 1,0.446 1,1 v 7 c 0,0.55399 -0.44601,1 -1,1 H 7 C 6.446,17 6,16.55399 6,16 V 9 C 6,8.446 6.446,8 7,8 H 7.34375 8.4140625 Z M 12,9 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 0,1 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z" />
 </svg>
