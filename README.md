@@ -5,6 +5,7 @@ Windows 11 Style icon theme for Linux Desktop, Successed of Cobalt-icons
 ## Features
 
 * Following Windows 11 Design
+* Many Folder icons
 * KDE 6 Support(Experimental)
 
 ## Sources
