@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="zoom-fit-best-symbolic.svg"
+   sodipodi:docname="document-edit-symbolic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,26 +23,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="49.6875"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:zoom="33.208333"
+     inkscape:cx="12"
+     inkscape:cy="12"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="layer1" />
   <defs
-    id="defs1">
-    <style
-      id="current-color-scheme"
-      type="text/css">
-      .ColorScheme-Text { color:#dedede; }
-    </style>
-  </defs>
-  <path
-     id="rect1"
-     style="fill:currentColor"
-     class="ColorScheme-Text"
-     d="M 4,2 C 2.892,2 2,2.892 2,4 V 7 H 3 V 4 C 3,3.446 3.446,3 4,3 H 7 V 2 Z m 5,0 v 1 h 3 c 0.554,0 1,0.446 1,1 v 3 h 1 V 4 C 14,2.892 13.108,2 12,2 Z M 2,9 v 3 c 0,1.108 0.892,2 2,2 H 7 V 13 H 4 C 3.446,13 3,12.554 3,12 V 9 Z m 11,0 v 3 c 0,0.554 -0.446,1 -1,1 H 9 v 1 h 3 c 1.108,0 2,-0.892 2,-2 V 9 Z" />
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="color:#363636;fill:currentColor"
+       d="m 16.900391,4.391 c -0.511242,0 -1.022363,0.1961556 -1.414063,0.5878906 L 19.021484,8.516 c 0.78347,-0.78347 0.78348,-2.0466781 0,-2.8300781 L 18.314453,4.9788906 C 17.922718,4.5871556 17.411632,4.391 16.900391,4.391 Z M 14.779297,5.6859219 5,15.465219 v 3.535156 H 8.5351562 L 18.314453,9.2230312 Z m 0,1.4140625 2.121094,2.1230468 -8.3652348,8.3632818 -2.1210937,-2.121094 z" />
+  </g>
 </svg>
