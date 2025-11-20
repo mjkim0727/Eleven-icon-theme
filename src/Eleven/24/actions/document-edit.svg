@@ -1,15 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg1"
+   sodipodi:docname="document-edit.svg"
+   width="24"
+   height="24"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.208333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
         color:#363636;
-      }
-      </style>
+      }</style>
   </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-   d="m14.996094 3l-11.992188 11.992188h-.003906v4.00781h1 2 1.00781v-.003906l11.992188-11.992188-.001953-.001953.001953-.001953-4-4-.001953.001953-.001953-.001953m-1.998047 3.412109l2.589844 2.589844-7.587891 7.587891v-1.589844h-1-1v-1-.589844l6.998047-6.998047m-7.998047 7.998047v1.589844h1 1v1 .589844l-.410156.410156h-1.589844l-1-1v-1.589844l1-1" 
-    class="ColorScheme-Text"
-     transform="translate(1,1)"
-    />
+  <path
+     id="path1"
+     class="ColorScheme-Text"
+     d="m 17.302453,3.988 c -0.511241,-10e-8 -1.022362,0.196156 -1.414062,0.5878907 l 3.535156,3.5351562 c 0.78347,-0.78347 0.78348,-2.044725 0,-2.828125 L 18.716516,4.5758907 C 18.324781,4.1841558 17.813695,3.9880002 17.302453,3.988 Z M 15.18136,5.2829219 3.988,16.476281 v 3.535157 H 7.5251094 L 18.716516,8.8180782 Z m 0,1.4140625 2.121093,2.1210938 -9.7773436,9.7792968 -2.1230468,-2.121094 z"
+     style="fill:currentColor" />
 </svg>
