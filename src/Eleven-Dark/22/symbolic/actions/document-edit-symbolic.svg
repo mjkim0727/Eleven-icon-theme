@@ -2,45 +2,30 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   version="1.1"
-   id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="document-edit-symbolic.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="36.227273"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs1" />
+  width="22"
+  height="22"
+  viewBox="0 0 22 22"
+  version="1.1"
+  id="svg1"
+  inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+  sodipodi:docname="document-edit-symbolic.svg"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+      color:#dedede;
+      }</style>
+  </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
+    inkscape:label="Layer 1"
+    inkscape:groupmode="layer"
+    id="layer1">
     <path
-       id="path1"
-       style="color:#363636;fill:#dedede;fill-opacity:1"
-       d="m 15.900391,3.391 c -0.511242,0 -1.022363,0.1961556 -1.414063,0.5878906 L 18.021484,7.516 c 0.78347,-0.78347 0.78348,-2.0466781 0,-2.8300781 L 17.314453,3.9788906 C 16.922718,3.5871556 16.411632,3.391 15.900391,3.391 Z M 13.779297,4.6859219 4,14.465219 v 3.535156 H 7.5351562 L 17.314453,8.2230312 Z m 0,1.4140625 2.121094,2.1230468 -8.3652348,8.3632818 -2.1210937,-2.121094 z" />
-  </g>
-</svg>
+      id="path1"
+      style="fill:currentColor"
+      class="ColorScheme-Text"
+      d="m 15.900391,3.391 c -0.511242,0 -1.022363,0.1961556 -1.414063,0.5878906 L 18.021484,7.516 c 0.78347,-0.78347 0.78348,-2.0466781 0,-2.8300781 L 17.314453,3.9788906 C 16.922718,3.5871556 16.411632,3.391 15.900391,3.391 Z M 13.779297,4.6859219 4,14.465219 v 3.535156 H 7.5351562 L 17.314453,8.2230312 Z m 0,1.4140625 2.121094,2.1230468 -8.3652348,8.3632818 -2.1210937,-2.121094 z" />
+    </g>
+  </svg>
