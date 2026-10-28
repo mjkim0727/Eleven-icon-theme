@@ -1,10 +1,50 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="window-restore.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
     <style
-        type="text/css"
-        id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#363636;
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#363636;
         }
-    </style>
-    <path d="M8 2.293l-.354.353L2.293 8 8 13.707 13.707 8zm0 1.414L12.293 8 8 12.293 3.707 8z" class="ColorScheme-Text" fill="currentColor"/>
+        .ColorScheme-Highlight {
+        color:#3daee9;
+        }</style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:lockguides="false"
+     inkscape:zoom="50.4375"
+     inkscape:cx="7.9900867"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     id="rect958"
+     style="fill:currentColor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="M 7,3 C 6.0995718,3 5.2950745,3.3933686 4.7460938,4.0175781 4.8293897,4.0070913 4.9137688,4 5,4 h 5 c 1.108,0 2,0.892 2,2 v 5 c 0,0.08623 -0.0071,0.17061 -0.01758,0.253906 C 12.606635,10.704926 13,9.900428 13,9 V 6 C 13,4.338 11.662,3 10,3 Z M 5,5 C 3.892,5 3,5.892 3,7 v 4 c 0,1.108 0.892,2 2,2 h 4 c 1.108,0 2,-0.892 2,-2 V 7 C 11,5.892 10.108,5 9,5 Z m 0,1 h 4 c 0.554,0 1,0.446 1,1 v 4 c 0,0.554 -0.446,1 -1,1 H 5 C 4.446,12 4,11.554 4,11 V 7 C 4,6.446 4.446,6 5,6 Z" />
 </svg>

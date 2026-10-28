@@ -1,12 +1,72 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g id="edit-paste-style" transform="matrix(1 0 0 1 -45.07 -567.36)">
-  <g id="node-transform" transform="matrix(.625 0 0 .625 -170.05 222.39)">
-   <g transform="matrix(2.2857 0 0 2.2857 -748.14 432.65)" stroke-width=".7">
-    <path d="m483.5 55-2.1 2.1h1.4v2.8h-1.4l2.1 2.1 2.1-2.1h-1.4l-1e-5 -2.8h1.4z" fill="#363636" stroke-width=".7"/>
-   </g>
-   <path transform="translate(0 512.36)" d="m349 46h16v16h-16z" opacity="0" stroke-width="1.6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg4"
+   sodipodi:docname="edit-paste-height.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="50.4375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="edit-paste-style" />
+  <g
+     id="edit-paste-style"
+     transform="matrix(1 0 0 1 -45.07 -567.36)">
+    <g
+       id="node-transform"
+       transform="matrix(.625 0 0 .625 -170.05 222.39)">
+      <g
+         transform="matrix(2.2857 0 0 2.2857 -748.14 432.65)"
+         stroke-width=".7"
+         id="g1">
+        <path
+           d="m483.5 55-2.1 2.1h1.4v2.8h-1.4l2.1 2.1 2.1-2.1h-1.4l-1e-5 -2.8h1.4z"
+           fill="#363636"
+           stroke-width=".7"
+           id="path1" />
+      </g>
+      <path
+         transform="translate(0 512.36)"
+         d="m349 46h16v16h-16z"
+         opacity="0"
+         stroke-width="1.6"
+         id="path2" />
+    </g>
+    <path
+       d="m 49.06995,568.36 c -1.108,0 -2,0.89198 -2,2 v 11 c 0,1.108 0.892,2 2,2 H 57.07 c 1.108,0 2,-0.89199 2,-2 v -11 c 0,-1.108 -0.892,-2 -2,-2 h -1 v 0.99999 c 0,0.0113 -0.0016,0.022 -0.002,0.0332 h 1.002 c 0.554,0 1,0.446 1,1 v 10.934 c 0,0.55399 -0.446,0.99999 -1,0.99999 h -8.00005 c -0.554,0 -1,-0.446 -1,-0.99999 v -10.934 c 0,-0.554 0.446,-1 1,-1 H 50.072 c -3.23e-4,-0.0112 -0.0019,-0.0219 -0.0019,-0.0332 V 568.36 h -1.00005 z"
+       fill="#363636"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path3" />
+    <path
+       d="m51.07 567.36c-0.55401 0-1 0.44599-1 1v0.99999c0 0.55401 0.44599 1 1 1h4c0.55401 0 1-0.44599 1-1v-0.99999c0-0.55401-0.44599-1-1-1zm0 1h4v0.99999h-4z"
+       fill="#363636"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path4" />
   </g>
-  <path d="m48.07 568.36c-1.108 0-2 0.89198-2 2v11c0 1.108 0.892 2 2 2h10c1.108 0 2-0.89199 2-2v-11c0-1.108-0.892-2-2-2h-2v0.99999c0 0.0113-0.0016 0.022-2e-3 0.0332h2.002c0.554 0 1 0.446 1 1v10.934c0 0.55399-0.446 0.99999-1 0.99999h-10c-0.554 0-1-0.446-1-0.99999v-10.934c0-0.554 0.446-1 1-1h2.002c-3.23e-4 -0.0112-0.0019-0.0219-0.0019-0.0332v-0.99999h-2z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  <path d="m51.07 567.36c-0.55401 0-1 0.44599-1 1v0.99999c0 0.55401 0.44599 1 1 1h4c0.55401 0 1-0.44599 1-1v-0.99999c0-0.55401-0.44599-1-1-1zm0 1h4v0.99999h-4z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
- </g>
 </svg>
