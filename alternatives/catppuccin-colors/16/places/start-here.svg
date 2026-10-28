@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1183"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="start-here.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1185"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="50.4375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1183"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1180">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient1998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-41,-41.99993)"
+       x1="42"
+       y1="41.999832"
+       x2="57"
+       y2="56.999931" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2">
+      <stop
+         style="stop-color:#89b4fa;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#7287fd;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <path
+     id="path1986"
+     style="fill:url(#linearGradient1998);fill-opacity:1;stroke-width:1.125;stroke-linejoin:round"
+     d="M 1.9746094 0 C 1.432669 0.013638502 1 0.45465625 1 1 L 1 7 L 6.875 7 L 8 7 L 8 5.875 L 8 0 L 2 0 C 1.99134 0 1.983211 -0.00021648408 1.9746094 0 z M 9 0 L 9 5.875 L 9 7 L 11 7 L 15.994141 7 L 16 7 L 16 1 C 16 0.446 15.554 0 15 0 L 9 0 z M 1 8 L 1 14 C 1 14.554 1.4459999 15 2 15 L 8 15 L 8 9.125 L 8 8 L 6.875 8 L 1 8 z M 9 8 L 9 10 L 9 15 L 15 15 C 15.554 15 16 14.554 16 14 L 16 8 L 15.994141 8 L 11 8 L 9 8 z " />
+</svg>
