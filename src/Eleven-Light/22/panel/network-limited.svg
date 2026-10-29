@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg851"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="network-limited.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview853"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:zoom="36.681818"
+     inkscape:cx="10.986369"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg851"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs848">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-NeutralText { color:#fdbc4b; }</style>
+  </defs>
+  <path
+     id="rect934"
+     style="fill:currentColor;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="m 15,3 c -0.554,0 -1,0.446 -1,1 v 5 c 0,0.554 0.446,1 1,1 h 1 v 0.5 l 1,2 V 10 h 1 c 0.554,0 1,-0.446 1,-1 V 4 C 19,3.446 18.554,3 18,3 Z M 5,4 C 3.8919999,4 3,4.892 3,6 v 8 c 0,1.108 0.8919999,2 2,2 h 4 v 2 H 7 v 1 h 3.699219 l 0.529297,-1 H 10 v -2 h 2 l 0.5,-1 H 5 C 4.446,15 4,14.554 4,14 V 6 C 4,5.446 4.446,5 5,5 h 8 V 4 Z m 10,0 h 3 v 1 h -3 z m 0,2 h 3 v 3 h -3 z" />
+  <path
+     style="fill:#fdbc4b"
+     class="ColorScheme-NeutralText"
+     d="m 15.500187,12 c -0.189613,1.72e-4 -0.362818,0.107574 -0.447266,0.277344 l -3,6 C 11.88776,18.609563 12.129178,18.999627 12.500187,19 h 6 c 0.371009,-3.73e-4 0.612428,-0.390437 0.447266,-0.722656 l -3,-6 C 15.863005,12.107574 15.6898,12.000172 15.500187,12 Z"
+     id="path4" />
+</svg>

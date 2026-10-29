@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg851"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="network-limited.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview853"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:zoom="33.625"
+     inkscape:cx="11.98513"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg851"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs848">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-NeutralText { color:#fdbc4b; }</style>
+  </defs>
+  <path
+     id="rect934"
+     style="fill:currentColor;fill-opacity:1;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="m 16,4 c -0.554,0 -1,0.446 -1,1 v 5 c 0,0.554 0.446,1 1,1 h 1 v 0.5 l 1,2 V 11 h 1 c 0.554,0 1,-0.446 1,-1 V 5 C 20,4.446 19.554,4 19,4 Z M 6,5 C 4.8919999,5 4,5.892 4,7 v 8 c 0,1.108 0.8919999,2 2,2 h 4 v 2 H 8 v 1 h 3.699219 l 0.529297,-1 H 11 v -2 h 2 l 0.5,-1 H 6 C 5.446,16 5,15.554 5,15 V 7 C 5,6.446 5.446,6 6,6 h 8 V 5 Z m 10,0 h 3 v 1 h -3 z m 0,2 h 3 v 3 h -3 z" />
+  <path
+     style="fill:#fdbc4b"
+     class="ColorScheme-NeutralText"
+     d="m 16.500187,13 c -0.189613,1.72e-4 -0.362818,0.107574 -0.447266,0.277344 l -3,6 C 12.88776,19.609563 13.129178,19.999627 13.500187,20 h 6 c 0.371009,-3.73e-4 0.612428,-0.390437 0.447266,-0.722656 l -3,-6 C 16.863005,13.107574 16.6898,13.000172 16.500187,13 Z"
+     id="path4" />
+</svg>
