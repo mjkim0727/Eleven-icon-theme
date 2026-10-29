@@ -26,7 +26,7 @@
      showgrid="false"
      units="px"
      inkscape:zoom="25.21875"
-     inkscape:cx="15.980173"
+     inkscape:cx="15.960347"
      inkscape:cy="16"
      inkscape:window-width="1920"
      inkscape:window-height="1010"
@@ -59,7 +59,7 @@
        xlink:href="#linearGradient2"
        id="linearGradient1998"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2,0,0,2,-82.000005,-81.999905)"
+       gradientTransform="matrix(2,0,0,2,-82.000005,-80.999905)"
        x1="42.000004"
        y1="41.999954"
        x2="55.500004"
@@ -68,6 +68,6 @@
   <path
      id="path1986"
      style="fill:url(#linearGradient1998);fill-opacity:1;stroke-width:2.24999;stroke-linejoin:round"
-     d="M 4,2 C 2.8603303,2.0036459 2.0293543,3.0138742 2,4 V 15 H 15 V 2 Z M 16,2 V 15 H 28.988281 29 V 4 c 3e-6,-1.1080001 -0.892001,-2 -2,-2 z M 2,16 v 11 c 0,1.108001 0.8919999,2 2,2 H 15 V 16 Z m 14,0 v 13 h 11 c 1.107999,0 2,-0.891999 2,-2 V 16 h -0.01172 z"
+     d="M 4,3 C 2.8603303,3.0036459 2.0293543,4.0138742 2,5 V 16 H 15 V 3 Z M 16,3 V 16 H 28.988281 29 V 5 c 3e-6,-1.1080001 -0.892001,-2 -2,-2 z M 2,17 v 11 c 0,1.108001 0.8919999,2 2,2 H 15 V 17 Z m 14,0 v 13 h 11 c 1.107999,0 2,-0.891999 2,-2 V 17 h -0.01172 z"
      sodipodi:nodetypes="cccccccccccsccsscccccssccc" />
 </svg>
